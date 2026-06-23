@@ -33,9 +33,16 @@ This project analyzes global technology layoffs from 2020–2023 using SQL, Tabl
 
 Used Facebook Prophet to forecast future layoff trends based on historical monthly layoff data.
 
+## Forecasting Future Layoffs
+
+![Forecast](layoffs_forecast.png)
+
 ## Files
 
 * layoffs_analysis.sql
+* data_exploratory.sql
+* data_cleaning.sql
+* advanced_Sql.sql
 * forecasting_layoffs.ipynb
 * layoffs_forecast.csv
 * layoffs_forecast.png
