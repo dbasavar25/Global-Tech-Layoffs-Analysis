@@ -4,6 +4,14 @@
 
 This project analyzes global technology layoffs from 2020–2023 using SQL, Tableau, and Python.
 
+## Project Workflow
+
+1. Data Cleaning using SQL
+2. Exploratory Data Analysis (EDA)
+3. Interactive Dashboard Creation in Tableau
+4. Forecasting Future Layoffs using Facebook Prophet
+5. Insights & Recommendations
+
 ## Tools Used
 
 * SQL (Data Cleaning & Analysis)
