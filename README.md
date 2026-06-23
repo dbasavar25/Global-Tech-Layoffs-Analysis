@@ -19,7 +19,7 @@ This project analyzes global technology layoffs from 2020–2023 using SQL, Tabl
 
 ## Dashboard
 
-(Add dashboard screenshot here)
+![Dashboard](dashboard.png.png)
 
 ## Forecasting
 
