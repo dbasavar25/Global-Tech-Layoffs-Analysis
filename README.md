@@ -37,6 +37,17 @@ Used Facebook Prophet to forecast future layoff trends based on historical month
 
 ![Forecast](layoffs_forecast.png)
 
+## Skills Demonstrated
+
+- SQL
+- Data Cleaning
+- Exploratory Data Analysis
+- Tableau Dashboarding
+- Data Visualization
+- Time Series Forecasting
+- Python (Pandas, Prophet)
+- Git & GitHub
+
 ## Files
 
 * layoffs_analysis.sql
@@ -47,3 +58,4 @@ Used Facebook Prophet to forecast future layoff trends based on historical month
 * layoffs_forecast.csv
 * layoffs_forecast.png
 * dashboard.png
+  
